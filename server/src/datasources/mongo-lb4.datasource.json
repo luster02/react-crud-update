@@ -1,0 +1,11 @@
+{
+  "name": "mongoLb4",
+  "connector": "mongodb",
+  "url": "",
+  "host": "localhost",
+  "port": 27017,
+  "user": "",
+  "password": "",
+  "database": "mongoLb4",
+  "useNewUrlParser": true
+}
